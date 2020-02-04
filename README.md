@@ -50,11 +50,5 @@ ________________________________________________________________________________
 - `yarn start` or `npm start` - Runs the app in live-development mode.
 - `yarn build` or `npm build` - Builds the optimized production app.
 
-## Todo 🧩
 
-- [x] Edit/Remove Scores
-- [ ] Localization
-- [ ] Accessibility
-- [ ] Testing
-- [ ] Offline
 "
