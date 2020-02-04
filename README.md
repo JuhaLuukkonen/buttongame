@@ -1,6 +1,6 @@
 ## React Button game - Juha Luukkonen
 
-# Deployed:
+# Deployed soon: https://juhanbuttongame.herokuapp.com/
 
 This simple button game is for Vincit coder chase and it is edited from source below.
 
