@@ -1,18 +1,12 @@
 ## React Button game - Juha Luukkonen
 
-Deployed:
+# Deployed:
 
 This simple button game is for Vincit coder chase and it is edited from source below.
 
 _________________________________________________________________________________________________________________________
 
 > A simple React-powered scoreboard for score-keeping while playing analog games
-
-## Demo 🃏
-
-[https://saltymouse.github.io/scoreboard-react](https://saltymouse.github.io/scoreboard-react)
-
-![Scoreboard (mobile size, showing dark/light mode)](/public/darkmode-mobile.png?raw=true "Scoreboard with darkmode!")
 
 ## How To Use 🀄️
 
