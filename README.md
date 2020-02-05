@@ -4,7 +4,11 @@
 
 This simple button game is for Vincit coder chase and it is edited from source below.
 
+When using locally execute next command in terminal: yarn install
+
 _________________________________________________________________________________________________________________________
+
+Web source:
 
 "
 ## How To Use 🀄️
