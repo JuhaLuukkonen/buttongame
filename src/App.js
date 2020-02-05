@@ -193,11 +193,11 @@ class App extends Component {
     const scoreQuantity = this.state.players[0]
       ? this.state.players[0].scores.length
       : 1;
-    const scoreLimit = this.state.players[0] ? 1 : 10;
+//    const scoreLimit = this.state.players[0] ? 1 : 10;                 commented out and also deleted same from button from row 200
     this.handleAvatarClick(playerId);
     return {
       id: playerId,
-      scores: Scores(<button onClick={scoreQuantity, scoreLimit}>-1</button>),
+      scores: Scores(<button onClick={scoreQuantity}>-1</button>),
       newScore: {},
       avatar: this.handleAvatarClick(playerId, false)      
     };
