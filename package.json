@@ -1,8 +1,8 @@
 {
-  "name": "scoreboard-react",
+  "name": "juhanbuttongame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saltymouse.github.io/scoreboard-react/",
+  "homepage": "https://juhanbuttongame.herokuapp.com/",
   "dependencies": {
     "feather-icons": "^4.25.0",
     "gemoji": "https://github.com/github/gemoji",
