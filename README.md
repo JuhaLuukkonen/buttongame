@@ -6,6 +6,8 @@ This simple button game is for Vincit coder chase and it is edited from source b
 
 When using locally execute next command in terminal: yarn install
 
+                                                     yarn start
+
 _________________________________________________________________________________________________________________________
 
 Web source:
