@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://juhanbuttongame.herokuapp.com/",
+  "engines": {
+    "node": "12.13.1"
+  },
   "dependencies": {
     "feather-icons": "^4.25.0",
     "gemoji": "https://github.com/github/gemoji",
