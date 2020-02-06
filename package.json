@@ -1,7 +1,9 @@
+{ "license" : "CC-BY-NC-SA-4.0" }
+
 {
   "name": "juhanbuttongame",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://juhanbuttongame.herokuapp.com/",
   "dependencies": {
     "feather-icons": "^4.25.0",
